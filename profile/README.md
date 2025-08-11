@@ -5,11 +5,7 @@
 ## 主要产品
 
 1. NamePicker：NamePicker软件本体
-2. NP-NameEditor：NamePicker的可视化编辑器
-3. NamePickerXP：NamePicker的 Windows XP兼容版
-4. NamePicker4CI：NamePicker x ClassIsland联动插件
-5. NamePicker4CW：NamePicker x Class Widgets插件
-
+2. 
 ## 通讯
 
 ### 组织成员
